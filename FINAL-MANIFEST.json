@@ -1,0 +1,123 @@
+{
+  "site_id": "site-d64af1d7b7e3",
+  "keyword": "nano acuarofilia gambarios neocaridinas",
+  "topic": "Nano Acuarofilia",
+  "slug": "nano-acuarofilia-gambarios-neocaridinas",
+  "directory": "nano-acuarofilia-gambarios-neocaridinas__2026-08-27",
+  "version": 1,
+  "created_at": "2026-08-27T02:15:57+00:00",
+  "updated_at": "2026-08-27T02:51:58+00:00",
+  "exported_at": "2026-08-27T02:52:29+00:00",
+  "decision": "CREATE_SITE",
+  "cluster_id": "CLU-3048fc4a50ac",
+  "pages_count": 12,
+  "pages": [
+    "404.html",
+    "articulos/index.html",
+    "articulos/nano-acuarofilia-y-mantenimiento-de-gambarios-de-agua-dulce/index.html",
+    "categorias/cultivos/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "guia/index.html",
+    "index.html",
+    "privacidad/index.html",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "assets": [
+    "404.html",
+    "ads.txt",
+    "articulos/index.html",
+    "articulos/nano-acuarofilia-y-mantenimiento-de-gambarios-de-agua-dulce/index.html",
+    "categorias/cultivos/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "css/responsive.css",
+    "css/style.css",
+    "favicon.svg",
+    "guia/index.html",
+    "images/ae6c7d5ad0eccba4-hero.jpg",
+    "images/bda221568ed22148-subject.jpg",
+    "images/hero.svg",
+    "index.html",
+    "js/main.js",
+    "manifest.webmanifest",
+    "privacidad/index.html",
+    "robots.txt",
+    "rss.xml",
+    "sitemap.xml",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "asset_hashes_sha256_16": {
+    "rss.xml": "f9ec3fde3f2d3177",
+    "index.html": "6cc0c81aa6dca54f",
+    "ads.txt": "61ed7ec7122f296c",
+    "404.html": "79db77c277a1e972",
+    "sitemap.xml": "f0e65701313c6c91",
+    "robots.txt": "f580ed888100d8d0",
+    "manifest.webmanifest": "f89b4dfb4f7d0791",
+    "favicon.svg": "a53478486f446369",
+    "guia/index.html": "d3f9da57f09a1784",
+    "css/responsive.css": "facf8382a0fc2d57",
+    "css/style.css": "c85ae8992250cef4",
+    "images/hero.svg": "525f30c2eb39e014",
+    "images/bda221568ed22148-subject.jpg": "bda221568ed22148",
+    "images/ae6c7d5ad0eccba4-hero.jpg": "ae6c7d5ad0eccba4",
+    "js/main.js": "38e8c817bf4a9b29",
+    "articulos/index.html": "03be4d8cbe784840",
+    "contacto/index.html": "be5d810aacb55fd9",
+    "sobre-nosotros/index.html": "e810663621e9df20",
+    "categorias/index.html": "a9d8f3f5853fab6d",
+    "terminos/index.html": "0b0e6c64af1191b4",
+    "privacidad/index.html": "132c11f58f604c7a",
+    "cookies/index.html": "631ef93af76e6831",
+    "categorias/cultivos/index.html": "13b7dc893daba353",
+    "articulos/nano-acuarofilia-y-mantenimiento-de-gambarios-de-agua-dulce/index.html": "1e1f0407051e8eaf"
+  },
+  "images": [
+    {
+      "file": "ae6c7d5ad0eccba4-hero.jpg",
+      "source": "https://live.staticflickr.com/4041/4209461921_9864a983f5_b.jpg",
+      "author": "Mario_T_",
+      "license": "CC BY-SA 2.0",
+      "sha256": "ae6c7d5ad0eccba48335f1f4199856af54ce8c452b6ddea920a54b1f297a9d5f"
+    },
+    {
+      "file": "bda221568ed22148-subject.jpg",
+      "source": "https://live.staticflickr.com/2092/2083143231_a615b4c329_b.jpg",
+      "author": "snigl3t",
+      "license": "CC BY 2.0",
+      "sha256": "bda221568ed22148f2cf501ffc8e5bed3d352db63098bce6663f662ee21e93df"
+    }
+  ],
+  "qa": {
+    "technical": "PASS/WARN (ver validator en build_report)",
+    "visual": "ver runs/visual-qa/site-d64af1d7b7e3",
+    "editorial": "ver learning_log",
+    "quality_gate": "UNKNOWN",
+    "quality_score": null
+  },
+  "export_gate": {
+    "blockers": [],
+    "warnings": [
+      "gate_desconocido (web histórica)"
+    ]
+  },
+  "content_hash": "af81e4901a7821b5c276e5584e11a7ed",
+  "generator": "Money Web Factory — local-first, sin secretos",
+  "http_check": {
+    "ok": true,
+    "results": {
+      "index.html": 200,
+      "sitemap.xml": 200,
+      "robots.txt": 200,
+      "css/style.css": 200,
+      "css/responsive.css": 200,
+      "images/ae6c7d5ad0eccba4-hero.jpg": 200,
+      "js/main.js": 200
+    }
+  }
+}
